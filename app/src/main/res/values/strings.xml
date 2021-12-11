@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AndroidQuiz</string>
+    <string name="question1_choice1">Intent</string>
+    <string name="question1_choice2">Content Provider</string>
+    <string name="question1_choice3">Broadcast Receiver</string>
+    <string name="question1_label">Question 1</string>
+    <string name="question1">How to pass the data between activities in android?</string>
+    <string name="question2_label">Question 2</string>
+    <string name="question2">During an Activity life-cycle, what is the first callback method invoked by the system?</string>
+    <string name="question2_choice3">onCreate()</string>
+    <string name="question2_choice2">onRestore()</string>
+    <string name="question2_choice1">onStart()</string>
+    <string name="question3_label">Question 3</string>
+    <string name="question3">What Activity method you use to retrieve a reference to an Android view by using the id attribute of a resource XML?</string>
+    <string name="question3_choice1">findViewByReference(int id);</string>
+    <string name="question3_choice2">findViewById(int id)</string>
+    <string name="question3_choice3">findViewById(String id)</string>
+    <string name="question4_label">Question 4</string>
+    <string name="question4">Which of the following represent a nickname of a version of Andriod?</string>
+    <string name="question4_choice1">Muffin</string>
+    <string name="question4_choice2">Gingerbread</string>
+    <string name="question4_choice3">Honeycomb</string>
+    <string name="question5_label">Question 5</string>
+    <string name="question5">An activity can be thought of as corresponding to what?</string>
+    <string name="question5_choice1">A Java project</string>
+    <string name="question5_choice2">A method call</string>
+    <string name="question5_choice3">A Java class</string>
+    <string name="name_class_field">Name/Class</string>
+    <string name="submit_button">Submit</string>
+    <string name="question6_answer_edit_text_hint">Answer</string>
+    <string name="enter_name_class_alert_toast_message">Please enter your name and your class</string>
+    <string name="name_class_toast_message">Name/Class: </string>
+    <string name="quiz_result_toast_message">\nQuiz Result is: </string>
+    <string name="forward_slash">/</string>
+    <string name="question6_label">Question 6</string>
+    <string name="question6">Which year Android was released?</string>
+</resources>
